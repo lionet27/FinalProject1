@@ -4,3 +4,8 @@
 
 Для вывода получившегося массива на экран использую отдельный метод ShowArray.
 
+Диаграмма1, в которой описывается общее логическое решение задачи представленна ниже по ссылке: 
+https://drive.google.com/file/d/14TuYkNXoJB8mP5WKneConhpCt46pse8g/view?usp=share_link
+
+Диаграмма2, в которой описывается мое решение задачи на языке C# представленна ниже по ссылке: 
+https://drive.google.com/file/d/1L4f_-uEj21qMV8i-cyppEELA7nv2WqMr/view?usp=share_link
